@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Our project is on predicting Customer Churn. Customer churn refers to identifying customers who are likely to stop doing business with a company. Predicting churn allows businesses to take proactive measures to retain those customers, potentially saving a significant amount of revenue. Churn can negatively impact a company's brand image and reputation. Thus, identifying churn risk factors allows companies to better target their marketing and retention efforts.
+This project is on predicting Customer Churn. Customer churn refers to identifying customers who are likely to stop doing business with a company. Predicting churn allows businesses to take proactive measures to retain those customers, potentially saving a significant amount of revenue. Churn can negatively impact a company's brand image and reputation. Thus, identifying churn risk factors allows companies to better target their marketing and retention efforts.
 
 ## Dataset Description
 
@@ -99,7 +99,7 @@ From the charts generated in the notebook, we can see that Model accuracy using 
 
 ## Conclusion
 
-In conclusion, our project focused on predicting customer churn, a crucial aspect for businesses to proactively retain customers and safeguard revenue. We utilized the Telco Customer Churn dataset from Kaggle, comprising 24 features, and framed the prediction task as a binary classification problem. The data preprocessing phase involved dropping unnecessary columns, handling duplicate values, and addressing missing data through imputation. Categorical features
+In conclusion, this project focused on predicting customer churn, a crucial aspect for businesses to proactively retain customers and safeguard revenue. We utilized the Telco Customer Churn dataset from Kaggle, comprising 24 features, and framed the prediction task as a binary classification problem. The data preprocessing phase involved dropping unnecessary columns, handling duplicate values, and addressing missing data through imputation. Categorical features
 
 
 
