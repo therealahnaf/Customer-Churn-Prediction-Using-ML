@@ -6,7 +6,7 @@ This project is on predicting Customer Churn. Customer churn refers to identifyi
 
 ## Dataset Description
 
-- **Dataset Source:** Telco Customer Churn (Kaggle)
+- **Dataset Source:** [Telco Customer Churn (Kaggle)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - **Features:**
   - `customerID`: Unique identifier for each customer.
   - `gender`: Customer's gender (male or female).
